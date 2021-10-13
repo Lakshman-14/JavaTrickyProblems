@@ -1,1 +1,1 @@
-# java triky problems
+# java problems
